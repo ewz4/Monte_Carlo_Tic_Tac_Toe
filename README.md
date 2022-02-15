@@ -1,1 +1,1 @@
-# Monte_Carlo_Tic_Tac_Toe
+Monte Carlo Tic Tac Toe done in Mathematica!
